@@ -1,0 +1,96 @@
+#js-XFUniqueId5 {
+  color: #3e2723;
+}
+
+div.notice-content {
+  color: #3e2723;
+}
+
+div.structItemContainer-group.structItemContainer-group--sticky {
+  color: #e69138;
+}
+
+div.structItem-title {
+  color: #e0e0e0;
+}
+
+a.tabs-tab.is-active.rippleButton {
+  color: #b45f06;
+}
+
+div div a {
+  
+  color:#783f04;
+}
+
+div.uix_noticeIcon {
+  background-color: #795548;
+  color: #bcaaa4;
+  border-color: #ffeb3b;
+}
+
+span.p-navgroup-linkText {
+  color: #efefef;
+  background-color: #783f04;
+}
+
+a.button.button--primary.p-navgroup-link.u-ripple.p-navgroup-link--textual.p-navgroup-link--logIn.rippleButton {
+  background-color: #783f04;
+  color: #000000;
+}
+
+a.button--scroll.button.rippleButton {
+  background-color: #6d4c41;
+  color: #e0e0e0;
+}
+
+li.notice.js-notice.notice--primary {
+  border-color: #8d6e63;
+}
+
+span.js-activePrefix {
+  color: 8d6e63;
+}
+
+div.block-container.uix_discussionList {
+  background-color: #f5f5f5;
+}
+
+a.button--cta.uix_quickReply--button.button.button--icon.button--icon--write.rippleButton {
+  background-color: #795548;
+  color: #eeeeee;
+}
+
+div.fr-toolbar.fr-ltr.fr-desktop.fr-top.fr-basic {
+  border-color: #d7ccc8;
+}
+
+button.button--primary.button.button--icon.button--icon--reply.rippleButton {
+  background-color: #6d4c41;
+}
+
+a.button--cta.uix_quickPost--button.button.button--icon.button--icon--write.rippleButton {
+  background-color: #6d4c41;
+  color: #eeeeee;
+}
+
+div dl dd {
+  color: #795548;
+}
+
+button.button--primary.button.button--icon.button--icon--write {
+  background-color: #6d4c41;
+}
+
+span.message-newIndicator {
+  background-color: #6d4c41;
+}
+
+div.structItem.structItem--thread.is-prefix90.is-unread.js-inlineModContainer.js-threadListItem-455813444 {
+  border-color: #eeeeee;
+}
+
+div.structItem.structItem--thread.is-prefix87.js-inlineModContainer.js-threadListItem-455541734 {
+  border-color: #eeeeee;
+}
+
